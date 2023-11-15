@@ -10,5 +10,3 @@ class Person :
 
 p1 = Person("Youssef", 36 , "tc")
 p1.myfunc()
-
-        
